@@ -1,5 +1,5 @@
 # Note-manager
-A Note Manager Project is a simple software application used to create, store, organize, and manage notes digitally. It is a very common mini-project for students, especially in computer science, because it covers basic programming concepts.
+A Note Manager is a simple software application used to create, store, organize, and manage notes digitally. It is a very common mini-project for students, especially in computer science, because it covers basic programming concepts.
 
 📌 Basic Description
 A Note Manager allows users to:
